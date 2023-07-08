@@ -7,7 +7,7 @@ library(tidyverse)
 library(rio)
 library(ggrepel)
 
-root <- 'C:/Users/vidon/Documents/GitHub/MLS-Return-Players/'
+root <- 'C:/your_path/'
 
 for(yr in 2023:2007){
   
